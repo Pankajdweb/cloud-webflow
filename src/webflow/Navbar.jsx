@@ -48,7 +48,7 @@ export function Navbar({}) {
               <NavbarLink
                 className={"tw-navigation-link"}
                 options={{
-                  href: "#",
+                  href: "/",
                 }}
               >
                 {"Home"}

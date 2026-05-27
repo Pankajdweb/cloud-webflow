@@ -2,7 +2,7 @@
   "cloud": {
     "framework": "nextjs"
   },
-  "devlink-export": {
+  "devlink": {
     "rootDir": "./src/webflow",
     "components": ".*",
     "componentGroups": ".*",
@@ -10,5 +10,12 @@
     "cssScopes": true,
     "relativeHrefRoot": "/"
   },
-  "siteId": "64a42455c0e137bdb5e7838e"
+  "siteId": "6a0d354936153441b416f5f0",
+  "telemetry": {
+    "global": {
+      "allowTelemetry": true,
+      "lastPrompted": 1779878730866,
+      "version": "1.23.0"
+    }
+  }
 }
